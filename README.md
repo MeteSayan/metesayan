@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Customer Engineer From MindBehind</h3>
+<h3 align="center">Customer Engineer At MindBehind</h3>
 
 - 📝 I regularly write articles on [https://www.metesayan.com](https://www.metesayan.com)
 
