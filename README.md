@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Customer Engineer At MindBehind</h3>
+<h3 align="center">Customer Engineer From Turkey</h3>
+
+- 🔭 I’m currently working on [MindBehind](https://www.mindbehind.com/)
 
 - 📝 I regularly write articles on [https://www.metesayan.com](https://www.metesayan.com)
+
+- 💬 Ask me about **nodejs, nestjs, web app. security etc.**
 
 - 📫 How to reach me **metesayan99@gmail.com**
 
