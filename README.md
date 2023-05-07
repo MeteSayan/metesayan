@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 <h3 align="center">Software Engineer From Turkey</h3>
 
-- 🔭 I’m currently working on [MindBehind](https://www.mindbehind.com/)
+- 🔭 I’m currently working on [Beyn Technology](https://beyn.com.tr/)
 
 - 📝 I regularly write articles on [https://www.metesayan.com](https://www.metesayan.com)
 
