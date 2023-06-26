@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Software Engineer From Turkey</h3>
+<h3 align="center">Full-Stack Developer (BE-Heavy) From Turkey</h3>
 
 - 🔭 I’m currently working on [Beyn Technology](https://beyn.com.tr/)
 
