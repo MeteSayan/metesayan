@@ -26,7 +26,7 @@
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" ><p><img align="center" src="https://streak-stats.demolab.com?user=metesayan&theme=dark&card_width=600" alt="metesayan" /></p></td>
+    <td colspan="2" ><p><img align="center" src="https://streak-stats.demolab.com?user=metesayan&theme=dark&card_width=800" alt="metesayan" /></p></td>
   </tr>
 </tbody>
 </table>
