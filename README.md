@@ -21,5 +21,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=metesayan&show_icons=true&locale=en&theme=dark" />
 </a>
 <a href="https://github.com/metesayan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss&card_width=320" />
 </a>
