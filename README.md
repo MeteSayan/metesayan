@@ -20,13 +20,8 @@
 <table>
 <thead>
   <tr>
-    <th><p><img align="left" src="https://github-readme-stats-metesayan.vercel.app/api?username=metesayan&show_icons=true&locale=en&theme=dark" alt="metesayan" /></p></th>
-    <th><p><img align="center" src="https://github-readme-stats-metesayan.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss" alt="metesayan" /></p></th>
+    <th><p><img align="left" src="https://github-readme-stats-metesayan.vercel.app/api?username=metesayan&show_icons=true&locale=en&theme=dark&cache_seconds=86400" alt="metesayan" /></p></th>
+    <th><p><img align="center" src="https://github-readme-stats-metesayan.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss&cache_seconds=86400" alt="metesayan" /></p></th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td colspan="2" ><p><img align="center" src="https://streak-stats.demolab.com?user=metesayan&theme=dark&card_width=800" alt="metesayan" /></p></td>
-  </tr>
-</tbody>
 </table>
