@@ -73,7 +73,7 @@
     <th><p><img align="left" src="https://github-readme-stats-metesayan.vercel.app/api?username=metesayan&show_icons=true&locale=en&theme=dark" alt="metesayan" /></p></th>
     <th>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=metesayan&label=Profile%20views&color=ffd700&style=flat" alt="metesayan" /> </p>
-      <p><img align="center" src="https://github-readme-stats-metesayan.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss,java" alt="metesayan" /></p>
+      <p><img align="center" src="https://github-readme-stats-metesayan.vercel.app/api/top-langs?username=metesayan&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html,scss" alt="metesayan" /></p>
     </th>
   </tr>
 </thead>
