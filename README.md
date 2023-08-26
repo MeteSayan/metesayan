@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **nodejs, nestjs, web app. security etc.**
 
+- ✍🏻 I regularly write helpful gists [https://gist.github.com/MeteSayan](https://gist.github.com/MeteSayan)
+
 - 📫 How to reach me **metesayan99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
