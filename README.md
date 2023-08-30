@@ -50,7 +50,7 @@
 <p align="left"> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://xunit.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/xunit/media/blob/main/full-logo.svg" alt="xunit" width="40" height="40"/> </a>
-  <a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MeteSayan/metesayan/assets/32373413/bdbf3330-8e3a-40aa-affc-12799de672bc" alt="junit" width="40" height="40"/> </a>
+  <a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/874086" alt="junit" width="40" height="40"/> </a>
 </p>
 <h4 align="left">Databases:</h4>
 <p align="left"> 
