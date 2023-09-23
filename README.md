@@ -11,8 +11,6 @@
 
 - ✍🏻 I regularly write helpful gists [https://gist.github.com/MeteSayan](https://gist.github.com/MeteSayan)
 
-- 📫 How to reach me **metesayan99@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/metesayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metesayan" height="30" width="40" /></a>
