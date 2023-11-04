@@ -19,6 +19,7 @@
 <h3 align="left">Latest Blog Posts From My Medium:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Document Your NestJS APIs with Swagger](https://medium.com/@metesayan/how-to-document-your-nestjs-apis-with-swagger-42bdefd13698?source=rss-47b92ba9c25b------2)
 - [Why Are AWS Lambda Services Preferred in Many Projects?](https://medium.com/@metesayan/why-are-aws-lambda-services-preferred-in-many-projects-37638d0d0a4c?source=rss-47b92ba9c25b------2)
 <!-- BLOG-POST-LIST:END -->
 
